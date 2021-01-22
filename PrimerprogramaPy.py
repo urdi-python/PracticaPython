@@ -1,3 +1,4 @@
+#COMPLETO
 menu = """
 Bienvenido al conversor de monedas
 1- Pesos Colombianos
