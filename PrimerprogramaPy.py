@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-pesos = input("Cuantos pesos Colombianos tienes: ")
-pesos = float(pesos)
-valor_dolar = 3400
-dolares = pesos / valor_dolar
-dolares = round(dolares, 2)
-dolares = str(dolares)
-print("Tienes"+ " " + dolares + " " + "Dolares")
-=======
+#MASTER
 menu = """
 Bienvenido al conversor de monedas
 1- Pesos Colombianos
@@ -51,4 +43,3 @@ elif opcion == 4:
     print("Tienes $$" + " " + dolares + " " + "Dólares")
 else:
     print("Ingresa una opción correcta por favor")
->>>>>>> completo
