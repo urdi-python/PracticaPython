@@ -16,6 +16,7 @@ def run():
     1- Peso Colombiano
     2- Pesos Argentino
     3- Pesos Mexicano
+    4- Pesos Chilenos
 
     Gracias por preferirnos 
 
@@ -28,6 +29,8 @@ def run():
         conversor("Argentinos", 103)
     elif opcion == 3:
         conversor("Mexicanos", 25)
+    elif opcion == 4:
+        conversor("Chilenos", 739)
     else:
         print("ingresa correctamente el numero de preferencia por favor")
 
